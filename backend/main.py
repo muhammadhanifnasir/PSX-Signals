@@ -1,0 +1,14 @@
+import os
+import sys
+
+# Ensure backend directory and project root are in sys.path
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(CURRENT_DIR)
+for path in [CURRENT_DIR, PROJECT_ROOT]:
+    if path not in sys.path:
+        sys.path.insert(0, path)
+
+from backend.app.main import app
+
+# Export ASGI app instance for Vercel Serverless & ASGI runners
+__all__ = ["app"]

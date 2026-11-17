@@ -64,7 +64,14 @@ export function useRealTimeMarket() {
 
   // WebSocket connection management
   const connectWebSocket = useCallback(() => {
-    const wsUrl = process.env.NEXT_PUBLIC_WS_URL || "ws://localhost:8000/ws/live-signals";
+    let wsUrl = process.env.NEXT_PUBLIC_WS_URL;
+    if (!wsUrl && typeof window !== "undefined") {
+      const isHttps = window.location.protocol === "https:";
+      const wsProtocol = isHttps ? "wss:" : "ws:";
+      wsUrl = `${wsProtocol}//${window.location.host}/api/ws/live-signals`;
+    } else if (!wsUrl) {
+      wsUrl = "ws://localhost:8000/api/ws/live-signals";
+    }
 
     try {
       const ws = new WebSocket(wsUrl);

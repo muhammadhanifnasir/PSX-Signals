@@ -50,7 +50,10 @@ import {
   initialScannerThresholds,
 } from "./initialData";
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api";
+const API_BASE =
+  process.env.NEXT_PUBLIC_API_URL ||
+  (process.env.BACKEND_URL ? `${process.env.BACKEND_URL.replace(/\/$/, "")}/api` : "") ||
+  (typeof window !== "undefined" ? "/api" : "http://localhost:8000/api");
 
 async function fetchWithFallback<T>(url: string, fallbackData: T): Promise<{ data: T; isLiveBackend: boolean }> {
   try {

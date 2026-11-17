@@ -60,29 +60,40 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Register routers with /api prefix
-app.include_router(auth.router, prefix=settings.API_V1_PREFIX)
-app.include_router(scanner.router, prefix=settings.API_V1_PREFIX)
-app.include_router(market_data.router, prefix=settings.API_V1_PREFIX)
-app.include_router(market.router, prefix=settings.API_V1_PREFIX)
-app.include_router(signals.router, prefix=settings.API_V1_PREFIX)
-app.include_router(opportunities.router, prefix=settings.API_V1_PREFIX)
-app.include_router(stocks.router, prefix=settings.API_V1_PREFIX)
-app.include_router(watchlist.router, prefix=settings.API_V1_PREFIX)
-app.include_router(alerts.router, prefix=settings.API_V1_PREFIX)
-app.include_router(backtest.router, prefix=settings.API_V1_PREFIX)
-app.include_router(journal.router, prefix=settings.API_V1_PREFIX)
+# Register routers with /api prefix AND directly for universal Vercel service rewrite compatibility
+core_routers = [
+    auth.router,
+    scanner.router,
+    market_data.router,
+    market.router,
+    signals.router,
+    opportunities.router,
+    stocks.router,
+    watchlist.router,
+    alerts.router,
+    backtest.router,
+    journal.router,
+]
+
+for r in core_routers:
+    app.include_router(r, prefix=settings.API_V1_PREFIX)
+    app.include_router(r)
+
+app.include_router(websocket.router, prefix=settings.API_V1_PREFIX)
 app.include_router(websocket.router)
 
 # --- Production Health & Monitoring Endpoints ---
 
 @app.get("/api/health", tags=["Health & Monitoring"])
+@app.get("/health", tags=["Health & Monitoring"])
 async def health_check():
     """System health check, worker status, memory, database, and data freshness."""
     health = worker_manager.get_system_health()
     return health
 
 @app.get("/api/health/live", tags=["Health & Monitoring"])
+@app.get("/health/live", tags=["Health & Monitoring"])
+async def liveness_probe():
 async def liveness_probe():
     """Kubernetes / Docker container liveness probe."""
     return {"status": "alive", "service": settings.PROJECT_NAME}
