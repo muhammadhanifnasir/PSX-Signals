@@ -1,0 +1,7224 @@
+[
+  {
+    "symbol": "OGDC",
+    "name": "OGDC Pakistan",
+    "sector": "OIL & GAS EXPLORATION COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI",
+      "NBPPGI",
+      "NITPGI",
+      "OGTI"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 344.7,
+    "circuit_breaker_lower": 296.6,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PPL",
+    "name": "PPL Pakistan",
+    "sector": "OIL & GAS EXPLORATION COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI",
+      "NBPPGI",
+      "NITPGI",
+      "OGTI"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 246.93,
+    "circuit_breaker_lower": 212.47,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HUBC",
+    "name": "HUBC Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI",
+      "NBPPGI",
+      "NITPGI",
+      "PSXDIV20",
+      "UPP9"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 224.79,
+    "circuit_breaker_lower": 193.43,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ENGRO",
+    "name": "Engro Corporation",
+    "sector": "Fertilizer / Conglomerate",
+    "listed_indices": [
+      "KSE100",
+      "KMI30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 374.0,
+    "circuit_breaker_lower": 322.0,
+    "is_active": true,
+    "last_updated": null
+  },
+  {
+    "symbol": "LUCK",
+    "name": "LUCK Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI",
+      "NBPPGI",
+      "NITPGI",
+      "UPP9"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 484.18,
+    "circuit_breaker_lower": 416.62,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MCB",
+    "name": "MCB Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "BKTI",
+      "JSGBKTI",
+      "JSMFI",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "NBPPGI",
+      "NITPGI",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 439.68,
+    "circuit_breaker_lower": 378.32,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UBL",
+    "name": "UBL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "BKTI",
+      "JSGBKTI",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "NBPPGI",
+      "NITPGI",
+      "PSXDIV20",
+      "UPP9"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 470.9,
+    "circuit_breaker_lower": 405.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MEBL",
+    "name": "MEBL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "BKTI",
+      "JSGBKTI",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI",
+      "NBPPGI",
+      "NITPGI",
+      "UPP9"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 603.92,
+    "circuit_breaker_lower": 519.66,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PSO",
+    "name": "PSO Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "JSMFI",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 400.44,
+    "circuit_breaker_lower": 344.56,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FFC",
+    "name": "FFC Pakistan",
+    "sector": "FERTILIZER",
+    "listed_indices": [
+      "ALLSHR",
+      "JSMFI",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI",
+      "NBPPGI",
+      "NITPGI",
+      "PSXDIV20",
+      "UPP9"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 613.36,
+    "circuit_breaker_lower": 527.78,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SYS",
+    "name": "SYS Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "NBPPGI",
+      "UPP9"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 124.25,
+    "circuit_breaker_lower": 106.91,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ATRL",
+    "name": "ATRL Pakistan",
+    "sector": "REFINERY",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1042.41,
+    "circuit_breaker_lower": 896.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DGKC",
+    "name": "DGKC Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 222.8,
+    "circuit_breaker_lower": 191.72,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PRL",
+    "name": "PRL Pakistan",
+    "sector": "REFINERY",
+    "listed_indices": [
+      "ALLSHR",
+      "JSMFI",
+      "KMI30",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 88.04,
+    "circuit_breaker_lower": 75.76,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SEARL",
+    "name": "SEARL Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 86.29,
+    "circuit_breaker_lower": 74.25,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AIRLINK",
+    "name": "AIRLINK Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 122.56,
+    "circuit_breaker_lower": 105.46,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PAEL",
+    "name": "PAEL Pakistan",
+    "sector": "CABLE & ELECTRICAL GOODS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 38.65,
+    "circuit_breaker_lower": 33.25,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CNERGY",
+    "name": "CNERGY Pakistan",
+    "sector": "REFINERY",
+    "listed_indices": [
+      "ALLSHR",
+      "JSMFI",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 12.86,
+    "circuit_breaker_lower": 10.86,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TELE",
+    "name": "TELE Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.58,
+    "circuit_breaker_lower": 6.58,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "WTL",
+    "name": "WTL Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 2.41,
+    "circuit_breaker_lower": 0.41,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PASL",
+    "name": "PASL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 12.2,
+    "circuit_breaker_lower": 10.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LSEFSL",
+    "name": "LSEFSL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 4.57,
+    "circuit_breaker_lower": 2.57,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FNEL",
+    "name": "FNEL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 2.32,
+    "circuit_breaker_lower": 0.32,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TPLL",
+    "name": "TPLL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.83,
+    "circuit_breaker_lower": 13.63,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "YOUW",
+    "name": "YOUW Pakistan",
+    "sector": "TEXTILE WEAVING",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.86,
+    "circuit_breaker_lower": 4.86,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PIBTL",
+    "name": "PIBTL Pakistan",
+    "sector": "TRANSPORT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.96,
+    "circuit_breaker_lower": 12.88,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MLCF",
+    "name": "MLCF Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 114.59,
+    "circuit_breaker_lower": 98.6,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KOSM",
+    "name": "KOSM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.85,
+    "circuit_breaker_lower": 4.85,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UNITY",
+    "name": "UNITY Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.59,
+    "circuit_breaker_lower": 7.59,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PIAHCLA",
+    "name": "PIAHCLA Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 27.84,
+    "circuit_breaker_lower": 23.96,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MARI",
+    "name": "MARI Pakistan",
+    "sector": "OIL & GAS EXPLORATION COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI",
+      "NBPPGI",
+      "NITPGI",
+      "OGTI"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 801.98,
+    "circuit_breaker_lower": 690.08,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TISL",
+    "name": "TISL Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.96,
+    "circuit_breaker_lower": 4.96,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ZUMA",
+    "name": "ZUMA Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 39.91,
+    "circuit_breaker_lower": 34.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BOP",
+    "name": "BOP Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "BKTI",
+      "JSGBKTI",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 33.79,
+    "circuit_breaker_lower": 29.07,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NGLEL",
+    "name": "NGLEL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 17.66,
+    "circuit_breaker_lower": 15.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DSL",
+    "name": "DSL Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.21,
+    "circuit_breaker_lower": 4.21,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GATM",
+    "name": "GATM Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 24.94,
+    "circuit_breaker_lower": 21.46,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FCCL",
+    "name": "FCCL Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 66.97,
+    "circuit_breaker_lower": 57.63,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KEL",
+    "name": "KEL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 7.36,
+    "circuit_breaker_lower": 5.36,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UNIC",
+    "name": "UNIC Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.0,
+    "circuit_breaker_lower": 12.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BECO",
+    "name": "BECO Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 5.35,
+    "circuit_breaker_lower": 3.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DCL",
+    "name": "DCL Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.95,
+    "circuit_breaker_lower": 8.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TPLP",
+    "name": "TPLP Pakistan",
+    "sector": "PROPERTY",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.07,
+    "circuit_breaker_lower": 12.07,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MDTL",
+    "name": "MDTL Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.89,
+    "circuit_breaker_lower": 6.89,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BAPL",
+    "name": "BAPL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 19.31,
+    "circuit_breaker_lower": 16.61,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LSECL",
+    "name": "LSECL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.65,
+    "circuit_breaker_lower": 4.65,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HUMNL",
+    "name": "HUMNL Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.44,
+    "circuit_breaker_lower": 7.44,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "WASL",
+    "name": "WASL Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.46,
+    "circuit_breaker_lower": 6.46,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MACFL",
+    "name": "MACFL Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 58.1,
+    "circuit_breaker_lower": 50.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CSIL",
+    "name": "CSIL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.88,
+    "circuit_breaker_lower": 4.88,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TPL",
+    "name": "TPL Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 26.88,
+    "circuit_breaker_lower": 23.12,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DWSM",
+    "name": "DWSM Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.55,
+    "circuit_breaker_lower": 7.55,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HIRAT",
+    "name": "HIRAT Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 4.73,
+    "circuit_breaker_lower": 2.73,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TSBL",
+    "name": "TSBL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 3.29,
+    "circuit_breaker_lower": 1.29,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "THCCL",
+    "name": "THCCL Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "JSMFI",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 80.45,
+    "circuit_breaker_lower": 69.23,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AGHA",
+    "name": "AGHA Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 7.45,
+    "circuit_breaker_lower": 5.45,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MZNPETF",
+    "name": "MZNPETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 19.79,
+    "circuit_breaker_lower": 17.03,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FCSC",
+    "name": "FCSC Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.92,
+    "circuit_breaker_lower": 4.92,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "RPL",
+    "name": "RPL Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 17.97,
+    "circuit_breaker_lower": 15.47,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ITANZ",
+    "name": "ITANZ Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 40.46,
+    "circuit_breaker_lower": 34.82,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FFL",
+    "name": "FFL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 16.07,
+    "circuit_breaker_lower": 13.83,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ANSM",
+    "name": "ANSM Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 32.95,
+    "circuit_breaker_lower": 28.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DNCC",
+    "name": "DNCC Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 29.02,
+    "circuit_breaker_lower": 24.98,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SSGC",
+    "name": "SSGC Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 25.79,
+    "circuit_breaker_lower": 22.19,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CJPL",
+    "name": "CJPL Pakistan",
+    "sector": "JUTE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.75,
+    "circuit_breaker_lower": 13.55,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "OBOY",
+    "name": "OBOY Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.26,
+    "circuit_breaker_lower": 13.13,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NCPL",
+    "name": "NCPL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 56.14,
+    "circuit_breaker_lower": 48.3,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TPLT",
+    "name": "TPLT Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 48.21,
+    "circuit_breaker_lower": 41.49,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HASCOL",
+    "name": "HASCOL Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.7,
+    "circuit_breaker_lower": 16.09,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TPLRF1",
+    "name": "TPLRF1 Pakistan",
+    "sector": "REAL ESTATE INVESTMENT TRUST",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.49,
+    "circuit_breaker_lower": 7.49,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "STCL",
+    "name": "STCL Pakistan",
+    "sector": "GLASS & CERAMICS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 11.07,
+    "circuit_breaker_lower": 9.07,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BPL",
+    "name": "BPL Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 111.94,
+    "circuit_breaker_lower": 96.32,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NPL",
+    "name": "NPL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 58.86,
+    "circuit_breaker_lower": 50.64,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PACE",
+    "name": "PACE Pakistan",
+    "sector": "PROPERTY",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.35,
+    "circuit_breaker_lower": 8.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FANM",
+    "name": "FANM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.24,
+    "circuit_breaker_lower": 11.24,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SNGP",
+    "name": "SNGP Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 101.79,
+    "circuit_breaker_lower": 87.59,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AVN",
+    "name": "AVN Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 29.72,
+    "circuit_breaker_lower": 25.58,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "EPCL",
+    "name": "EPCL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 36.31,
+    "circuit_breaker_lower": 31.25,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IPAK",
+    "name": "IPAK Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 33.88,
+    "circuit_breaker_lower": 29.16,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TREET",
+    "name": "TREET Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "JSMFI",
+      "KMI30",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 28.0,
+    "circuit_breaker_lower": 24.1,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ASL",
+    "name": "ASL Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.86,
+    "circuit_breaker_lower": 13.64,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TOMCL",
+    "name": "TOMCL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 32.04,
+    "circuit_breaker_lower": 27.57,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GCIL",
+    "name": "GCIL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 37.24,
+    "circuit_breaker_lower": 32.04,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AMTEX",
+    "name": "AMTEX Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 5.6,
+    "circuit_breaker_lower": 3.6,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LPL",
+    "name": "LPL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 20.31,
+    "circuit_breaker_lower": 17.47,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NRL",
+    "name": "NRL Pakistan",
+    "sector": "REFINERY",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 487.51,
+    "circuit_breaker_lower": 419.49,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SPEL",
+    "name": "SPEL Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 53.33,
+    "circuit_breaker_lower": 45.89,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AICL",
+    "name": "AICL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 96.21,
+    "circuit_breaker_lower": 82.79,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LIVEN",
+    "name": "LIVEN Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 46.34,
+    "circuit_breaker_lower": 39.88,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ICL",
+    "name": "ICL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 154.91,
+    "circuit_breaker_lower": 133.29,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CPHL",
+    "name": "CPHL Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 68.8,
+    "circuit_breaker_lower": 59.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BNL",
+    "name": "BNL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.56,
+    "circuit_breaker_lower": 4.56,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PTC",
+    "name": "PTC Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 50.63,
+    "circuit_breaker_lower": 43.57,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "OCTOPUS",
+    "name": "OCTOPUS Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 29.45,
+    "circuit_breaker_lower": 25.34,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CLOV",
+    "name": "CLOV Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 7.43,
+    "circuit_breaker_lower": 5.43,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "WAHDAT",
+    "name": "WAHDAT Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.04,
+    "circuit_breaker_lower": 12.94,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TSPL",
+    "name": "TSPL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.39,
+    "circuit_breaker_lower": 15.83,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UCAPM",
+    "name": "UCAPM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 27.0,
+    "circuit_breaker_lower": 23.24,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "WAVESAPP",
+    "name": "WAVESAPP Pakistan",
+    "sector": "CABLE & ELECTRICAL GOODS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.08,
+    "circuit_breaker_lower": 6.08,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MEHT",
+    "name": "MEHT Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 148.35,
+    "circuit_breaker_lower": 127.65,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DFSM",
+    "name": "DFSM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.2,
+    "circuit_breaker_lower": 12.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "QTECH",
+    "name": "QTECH Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 36.93,
+    "circuit_breaker_lower": 31.77,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GGL",
+    "name": "GGL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 21.76,
+    "circuit_breaker_lower": 18.72,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ALTN",
+    "name": "ALTN Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.23,
+    "circuit_breaker_lower": 6.23,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NBP",
+    "name": "NBP Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "BKTI",
+      "JSGBKTI",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "NBPPGI",
+      "PSXDIV20",
+      "UPP9"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 187.74,
+    "circuit_breaker_lower": 161.54,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FDPL",
+    "name": "FDPL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.35,
+    "circuit_breaker_lower": 4.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CLCPS",
+    "name": "CLCPS Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 5.0,
+    "circuit_breaker_lower": 3.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CHBL",
+    "name": "CHBL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.1,
+    "circuit_breaker_lower": 8.1,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BIFO",
+    "name": "BIFO Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 124.59,
+    "circuit_breaker_lower": 107.21,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TRG",
+    "name": "TRG Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 57.94,
+    "circuit_breaker_lower": 49.86,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SOYASUP",
+    "name": "SOYASUP Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 31.44,
+    "circuit_breaker_lower": 27.06,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CWHC",
+    "name": "CWHC Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 23.0,
+    "circuit_breaker_lower": 19.79,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "POWER",
+    "name": "POWER Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 24.13,
+    "circuit_breaker_lower": 20.77,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PREMA",
+    "name": "PREMA Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 33.54,
+    "circuit_breaker_lower": 28.86,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FCL",
+    "name": "FCL Pakistan",
+    "sector": "CABLE & ELECTRICAL GOODS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 25.21,
+    "circuit_breaker_lower": 21.69,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CSAP",
+    "name": "CSAP Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 96.74,
+    "circuit_breaker_lower": 83.24,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NRSL",
+    "name": "NRSL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 38.58,
+    "circuit_breaker_lower": 33.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SLM",
+    "name": "SLM Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 23.46,
+    "circuit_breaker_lower": 20.18,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SYM",
+    "name": "SYM Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 11.55,
+    "circuit_breaker_lower": 9.55,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "STPL",
+    "name": "STPL Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.0,
+    "circuit_breaker_lower": 7.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SELECT",
+    "name": "SELECT Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 24.74,
+    "circuit_breaker_lower": 21.28,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LOADS",
+    "name": "LOADS Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.35,
+    "circuit_breaker_lower": 11.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AHCL",
+    "name": "AHCL Pakistan",
+    "sector": "FERTILIZER",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.85,
+    "circuit_breaker_lower": 12.77,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "EFERT",
+    "name": "EFERT Pakistan",
+    "sector": "FERTILIZER",
+    "listed_indices": [
+      "ALLSHR",
+      "JSMFI",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "NBPPGI",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 224.69,
+    "circuit_breaker_lower": 193.33,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DEL",
+    "name": "DEL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 17.41,
+    "circuit_breaker_lower": 14.98,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FABL",
+    "name": "FABL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 104.22,
+    "circuit_breaker_lower": 89.68,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SIBL",
+    "name": "SIBL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.74,
+    "circuit_breaker_lower": 11.74,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LOTCHEM",
+    "name": "LOTCHEM Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 26.88,
+    "circuit_breaker_lower": 23.12,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BFAGRO",
+    "name": "BFAGRO Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 31.92,
+    "circuit_breaker_lower": 27.46,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NCL",
+    "name": "NCL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 49.45,
+    "circuit_breaker_lower": 42.55,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ARUJ",
+    "name": "ARUJ Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.34,
+    "circuit_breaker_lower": 11.34,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JSML",
+    "name": "JSML Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 65.58,
+    "circuit_breaker_lower": 56.42,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HICL",
+    "name": "HICL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.61,
+    "circuit_breaker_lower": 7.61,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "WAVES",
+    "name": "WAVES Pakistan",
+    "sector": "CABLE & ELECTRICAL GOODS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.36,
+    "circuit_breaker_lower": 8.36,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GAL",
+    "name": "GAL Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 601.8,
+    "circuit_breaker_lower": 517.82,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DSIL",
+    "name": "DSIL Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 40.86,
+    "circuit_breaker_lower": 35.16,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SPSL",
+    "name": "SPSL Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.48,
+    "circuit_breaker_lower": 12.46,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BIPL",
+    "name": "BIPL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 26.08,
+    "circuit_breaker_lower": 22.44,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TRSM",
+    "name": "TRSM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.1,
+    "circuit_breaker_lower": 13.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "STL",
+    "name": "STL Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 24.67,
+    "circuit_breaker_lower": 21.23,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CLVL",
+    "name": "CLVL Pakistan",
+    "sector": "TRANSPORT",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 26.52,
+    "circuit_breaker_lower": 22.82,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LSEVL",
+    "name": "LSEVL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.21,
+    "circuit_breaker_lower": 11.21,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GGGL",
+    "name": "GGGL Pakistan",
+    "sector": "GLASS & CERAMICS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.75,
+    "circuit_breaker_lower": 6.75,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GRYL",
+    "name": "GRYL Pakistan",
+    "sector": "LEASING COMPANIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 129.0,
+    "circuit_breaker_lower": 111.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KOHC",
+    "name": "KOHC Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 105.13,
+    "circuit_breaker_lower": 90.47,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PAKRI",
+    "name": "PAKRI Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 17.85,
+    "circuit_breaker_lower": 15.36,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HBL",
+    "name": "HBL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "BKTI",
+      "JSGBKTI",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "NBPPGI",
+      "NITPGI",
+      "PSXDIV20",
+      "UPP9"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 334.86,
+    "circuit_breaker_lower": 288.14,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SLGL",
+    "name": "SLGL Pakistan",
+    "sector": "TRANSPORT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.91,
+    "circuit_breaker_lower": 13.69,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ASTM",
+    "name": "ASTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 68.8,
+    "circuit_breaker_lower": 59.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "QUICE",
+    "name": "QUICE Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 29.02,
+    "circuit_breaker_lower": 24.98,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FATIMA",
+    "name": "FATIMA Pakistan",
+    "sector": "FERTILIZER",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 164.47,
+    "circuit_breaker_lower": 141.53,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MUGHAL",
+    "name": "MUGHAL Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 67.35,
+    "circuit_breaker_lower": 57.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NML",
+    "name": "NML Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 142.97,
+    "circuit_breaker_lower": 123.03,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JSMFETF",
+    "name": "JSMFETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 11.01,
+    "circuit_breaker_lower": 9.01,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FECTC",
+    "name": "FECTC Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 99.56,
+    "circuit_breaker_lower": 85.66,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PIL",
+    "name": "PIL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.89,
+    "circuit_breaker_lower": 4.89,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GDL",
+    "name": "GDL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 19.35,
+    "circuit_breaker_lower": 16.65,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ISL",
+    "name": "ISL Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 90.28,
+    "circuit_breaker_lower": 77.68,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KAPCO",
+    "name": "KAPCO Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 27.9,
+    "circuit_breaker_lower": 24.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DCR",
+    "name": "DCR Pakistan",
+    "sector": "REAL ESTATE INVESTMENT TRUST",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 42.24,
+    "circuit_breaker_lower": 36.34,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BAFL",
+    "name": "BAFL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "BKTI",
+      "JSGBKTI",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 64.5,
+    "circuit_breaker_lower": 55.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CEPB",
+    "name": "CEPB Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 25.37,
+    "circuit_breaker_lower": 21.83,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "OML",
+    "name": "OML Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 238.74,
+    "circuit_breaker_lower": 205.42,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MTL",
+    "name": "MTL Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 328.48,
+    "circuit_breaker_lower": 282.64,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BLUEX",
+    "name": "BLUEX Pakistan",
+    "sector": "TRANSPORT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 7.22,
+    "circuit_breaker_lower": 5.22,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AKDSL",
+    "name": "AKDSL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 33.3,
+    "circuit_breaker_lower": 28.66,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MACTER",
+    "name": "MACTER Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 57.94,
+    "circuit_breaker_lower": 49.86,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MIIETF",
+    "name": "MIIETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.22,
+    "circuit_breaker_lower": 15.68,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MWMP",
+    "name": "MWMP Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 78.47,
+    "circuit_breaker_lower": 67.53,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FML",
+    "name": "FML Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 44.88,
+    "circuit_breaker_lower": 38.62,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AKBL",
+    "name": "AKBL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "JSMFI",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 125.61,
+    "circuit_breaker_lower": 108.09,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SKRS",
+    "name": "SKRS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 26.33,
+    "circuit_breaker_lower": 22.65,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SAIF",
+    "name": "SAIF Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 45.13,
+    "circuit_breaker_lower": 38.83,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AMBL",
+    "name": "AMBL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 27.83,
+    "circuit_breaker_lower": 23.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AGSML",
+    "name": "AGSML Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.25,
+    "circuit_breaker_lower": 8.25,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JSBL",
+    "name": "JSBL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.34,
+    "circuit_breaker_lower": 11.34,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ENGROH",
+    "name": "ENGROH Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30",
+      "MZNPI",
+      "NBPPGI",
+      "NITPGI",
+      "UPP9"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 298.84,
+    "circuit_breaker_lower": 257.14,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SBL",
+    "name": "SBL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.76,
+    "circuit_breaker_lower": 12.7,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CFL",
+    "name": "CFL Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 91.97,
+    "circuit_breaker_lower": 79.13,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TBL",
+    "name": "TBL Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.25,
+    "circuit_breaker_lower": 8.25,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IMS",
+    "name": "IMS Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 20.8,
+    "circuit_breaker_lower": 17.9,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IREIT",
+    "name": "IREIT Pakistan",
+    "sector": "REAL ESTATE INVESTMENT TRUST",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.97,
+    "circuit_breaker_lower": 6.97,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NICL",
+    "name": "NICL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 290.13,
+    "circuit_breaker_lower": 249.65,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JSCL",
+    "name": "JSCL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 21.66,
+    "circuit_breaker_lower": 18.64,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FFLM",
+    "name": "FFLM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.23,
+    "circuit_breaker_lower": 12.23,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IMAGE",
+    "name": "IMAGE Pakistan",
+    "sector": "APPAREL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 23.74,
+    "circuit_breaker_lower": 20.42,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PSX",
+    "name": "PSX Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 45.97,
+    "circuit_breaker_lower": 39.55,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PABC",
+    "name": "PABC Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 109.19,
+    "circuit_breaker_lower": 93.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MRNS",
+    "name": "MRNS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 68.69,
+    "circuit_breaker_lower": 59.11,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PIOC",
+    "name": "PIOC Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 297.77,
+    "circuit_breaker_lower": 256.23,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DFML",
+    "name": "DFML Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 17.06,
+    "circuit_breaker_lower": 14.68,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KML",
+    "name": "KML Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.03,
+    "circuit_breaker_lower": 8.03,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BWCL",
+    "name": "BWCL Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 489.12,
+    "circuit_breaker_lower": 420.88,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "POL",
+    "name": "POL Pakistan",
+    "sector": "OIL & GAS EXPLORATION COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 725.61,
+    "circuit_breaker_lower": 624.37,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ASC",
+    "name": "ASC Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.79,
+    "circuit_breaker_lower": 6.79,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PICT",
+    "name": "PICT Pakistan",
+    "sector": "TRANSPORT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 47.3,
+    "circuit_breaker_lower": 40.7,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SAZEW",
+    "name": "SAZEW Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "KSE30",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1611.37,
+    "circuit_breaker_lower": 1386.53,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ASTL",
+    "name": "ASTL Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 19.89,
+    "circuit_breaker_lower": 17.11,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SGF",
+    "name": "SGF Pakistan",
+    "sector": "LEATHER & TANNERIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 117.71,
+    "circuit_breaker_lower": 101.29,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GCWL",
+    "name": "GCWL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 12.79,
+    "circuit_breaker_lower": 10.79,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NAGC",
+    "name": "NAGC Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 112.34,
+    "circuit_breaker_lower": 96.66,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UDLI",
+    "name": "UDLI Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 17.61,
+    "circuit_breaker_lower": 15.15,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GAMON",
+    "name": "GAMON Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 24.88,
+    "circuit_breaker_lower": 21.4,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FCIBL",
+    "name": "FCIBL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 292.63,
+    "circuit_breaker_lower": 251.79,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SINDM",
+    "name": "SINDM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 77.94,
+    "circuit_breaker_lower": 67.06,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CHAS",
+    "name": "CHAS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 105.35,
+    "circuit_breaker_lower": 90.65,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ILP",
+    "name": "ILP Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 110.55,
+    "circuit_breaker_lower": 95.13,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DINT",
+    "name": "DINT Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 64.5,
+    "circuit_breaker_lower": 55.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SARC",
+    "name": "SARC Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 89.25,
+    "circuit_breaker_lower": 76.79,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FCEPL",
+    "name": "FCEPL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 151.51,
+    "circuit_breaker_lower": 130.37,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MUREB",
+    "name": "MUREB Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 958.9,
+    "circuit_breaker_lower": 825.1,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SMCPL",
+    "name": "SMCPL Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 43.0,
+    "circuit_breaker_lower": 37.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "STML",
+    "name": "STML Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 81.7,
+    "circuit_breaker_lower": 70.3,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FCEL",
+    "name": "FCEL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 5.89,
+    "circuit_breaker_lower": 3.89,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SPWL",
+    "name": "SPWL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.1,
+    "circuit_breaker_lower": 7.1,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "WAHN",
+    "name": "WAHN Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 257.19,
+    "circuit_breaker_lower": 221.31,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BML",
+    "name": "BML Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 66.97,
+    "circuit_breaker_lower": 57.63,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GLAXO",
+    "name": "GLAXO Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 363.67,
+    "circuit_breaker_lower": 312.93,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ICCI",
+    "name": "ICCI Pakistan",
+    "sector": "TEXTILE WEAVING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 19.23,
+    "circuit_breaker_lower": 16.55,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AGTL",
+    "name": "AGTL Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 416.02,
+    "circuit_breaker_lower": 357.98,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MFL",
+    "name": "MFL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 46.02,
+    "circuit_breaker_lower": 39.6,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PAKD",
+    "name": "PAKD Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 132.22,
+    "circuit_breaker_lower": 113.78,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CCM",
+    "name": "CCM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 53.75,
+    "circuit_breaker_lower": 46.25,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FPJM",
+    "name": "FPJM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 19.79,
+    "circuit_breaker_lower": 17.03,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NETSOL",
+    "name": "NETSOL Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 126.58,
+    "circuit_breaker_lower": 108.92,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UVIC",
+    "name": "UVIC Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 22.56,
+    "circuit_breaker_lower": 19.42,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ARMG",
+    "name": "ARMG Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 126.84,
+    "circuit_breaker_lower": 109.14,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PAKL",
+    "name": "PAKL Pakistan",
+    "sector": "LEATHER & TANNERIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 77.4,
+    "circuit_breaker_lower": 66.6,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ITTEFAQ",
+    "name": "ITTEFAQ Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.13,
+    "circuit_breaker_lower": 7.13,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GOC",
+    "name": "GOC Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 354.17,
+    "circuit_breaker_lower": 304.75,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TATM",
+    "name": "TATM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 152.44,
+    "circuit_breaker_lower": 131.17,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PPP",
+    "name": "PPP Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 144.91,
+    "circuit_breaker_lower": 124.69,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PTL",
+    "name": "PTL Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 50.47,
+    "circuit_breaker_lower": 43.43,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ADMM",
+    "name": "ADMM Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 58.59,
+    "circuit_breaker_lower": 50.41,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MSOT",
+    "name": "MSOT Pakistan",
+    "sector": "APPAREL",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 159.65,
+    "circuit_breaker_lower": 137.37,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HCAR",
+    "name": "HCAR Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ALLSHR",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 221.03,
+    "circuit_breaker_lower": 190.19,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CPPL",
+    "name": "CPPL Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 98.9,
+    "circuit_breaker_lower": 85.1,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JATM",
+    "name": "JATM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 79.44,
+    "circuit_breaker_lower": 68.36,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DADX",
+    "name": "DADX Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 174.14,
+    "circuit_breaker_lower": 149.84,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ZAL",
+    "name": "ZAL Pakistan",
+    "sector": "TECHNOLOGY & COMMUNICATION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 35.77,
+    "circuit_breaker_lower": 30.77,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JVDC",
+    "name": "JVDC Pakistan",
+    "sector": "PROPERTY",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 144.95,
+    "circuit_breaker_lower": 124.73,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PAKQATAR",
+    "name": "PAKQATAR Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 17.73,
+    "circuit_breaker_lower": 15.25,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HRPL",
+    "name": "HRPL Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.87,
+    "circuit_breaker_lower": 16.23,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "OLPL",
+    "name": "OLPL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 49.45,
+    "circuit_breaker_lower": 42.55,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HBLTETF",
+    "name": "HBLTETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 115.82,
+    "circuit_breaker_lower": 99.66,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FRSM",
+    "name": "FRSM Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 47.07,
+    "circuit_breaker_lower": 40.51,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BBFL",
+    "name": "BBFL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 40.84,
+    "circuit_breaker_lower": 35.14,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KSBP",
+    "name": "KSBP Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 229.5,
+    "circuit_breaker_lower": 197.48,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BGL",
+    "name": "BGL Pakistan",
+    "sector": "GLASS & CERAMICS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.19,
+    "circuit_breaker_lower": 8.19,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GRR",
+    "name": "GRR Pakistan",
+    "sector": "REAL ESTATE INVESTMENT TRUST",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.26,
+    "circuit_breaker_lower": 15.72,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "EPQL",
+    "name": "EPQL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 26.34,
+    "circuit_breaker_lower": 22.66,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CTM",
+    "name": "CTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 7.95,
+    "circuit_breaker_lower": 5.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AGP",
+    "name": "AGP Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 168.78,
+    "circuit_breaker_lower": 145.22,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LCI",
+    "name": "LCI Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 205.02,
+    "circuit_breaker_lower": 176.42,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KTML",
+    "name": "KTML Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 44.59,
+    "circuit_breaker_lower": 38.37,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GHNI",
+    "name": "GHNI Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ALLSHR",
+      "JSMFI",
+      "KMI30",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1357.72,
+    "circuit_breaker_lower": 1168.28,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UBLPETF",
+    "name": "UBLPETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 32.23,
+    "circuit_breaker_lower": 27.73,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "EMCO",
+    "name": "EMCO Pakistan",
+    "sector": "CABLE & ELECTRICAL GOODS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 36.39,
+    "circuit_breaker_lower": 31.31,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ALNRS",
+    "name": "ALNRS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 148.34,
+    "circuit_breaker_lower": 127.64,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GTYR",
+    "name": "GTYR Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 25.82,
+    "circuit_breaker_lower": 22.22,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TCORP",
+    "name": "TCORP Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 21.92,
+    "circuit_breaker_lower": 18.86,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ESBL",
+    "name": "ESBL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.16,
+    "circuit_breaker_lower": 11.16,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FPRM",
+    "name": "FPRM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.98,
+    "circuit_breaker_lower": 11.98,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HIFA",
+    "name": "HIFA Pakistan",
+    "sector": "CLOSE - END MUTUAL FUND",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 6.0,
+    "circuit_breaker_lower": 4.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TGL",
+    "name": "TGL Pakistan",
+    "sector": "GLASS & CERAMICS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 192.15,
+    "circuit_breaker_lower": 165.33,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SRR",
+    "name": "SRR Pakistan",
+    "sector": "REAL ESTATE INVESTMENT TRUST",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.96,
+    "circuit_breaker_lower": 16.32,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PGLC",
+    "name": "PGLC Pakistan",
+    "sector": "LEASING COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.94,
+    "circuit_breaker_lower": 12.86,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BFMOD",
+    "name": "BFMOD Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 25.81,
+    "circuit_breaker_lower": 22.21,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DAAG",
+    "name": "DAAG Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 171.46,
+    "circuit_breaker_lower": 147.54,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NONS",
+    "name": "NONS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 99.97,
+    "circuit_breaker_lower": 86.03,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PKGI",
+    "name": "PKGI Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 25.8,
+    "circuit_breaker_lower": 22.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JGICL",
+    "name": "JGICL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 84.81,
+    "circuit_breaker_lower": 72.97,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PIM",
+    "name": "PIM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 170.37,
+    "circuit_breaker_lower": 146.59,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SPAC2",
+    "name": "SPAC2 Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.81,
+    "circuit_breaker_lower": 16.19,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ANL",
+    "name": "ANL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.2,
+    "circuit_breaker_lower": 8.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NATF",
+    "name": "NATF Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ACI",
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 363.4,
+    "circuit_breaker_lower": 312.7,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SEPL",
+    "name": "SEPL Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 153.72,
+    "circuit_breaker_lower": 132.28,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FLYNG",
+    "name": "FLYNG Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 46.76,
+    "circuit_breaker_lower": 40.24,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ZAHID",
+    "name": "ZAHID Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 63.42,
+    "circuit_breaker_lower": 54.58,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ECOP",
+    "name": "ECOP Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 46.21,
+    "circuit_breaker_lower": 39.77,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ARPAK",
+    "name": "ARPAK Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 127.71,
+    "circuit_breaker_lower": 109.89,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MQTM",
+    "name": "MQTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 30.21,
+    "circuit_breaker_lower": 25.99,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "INIL",
+    "name": "INIL Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 163.66,
+    "circuit_breaker_lower": 140.82,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IDYM",
+    "name": "IDYM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 168.78,
+    "circuit_breaker_lower": 145.22,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ARCTM",
+    "name": "ARCTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 71.95,
+    "circuit_breaker_lower": 61.91,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ICIBL",
+    "name": "ICIBL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.64,
+    "circuit_breaker_lower": 16.04,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PSEL",
+    "name": "PSEL Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1526.48,
+    "circuit_breaker_lower": 1313.48,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AHL",
+    "name": "AHL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 118.48,
+    "circuit_breaker_lower": 101.94,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "COLG",
+    "name": "COLG Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1290.0,
+    "circuit_breaker_lower": 1110.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KOHP",
+    "name": "KOHP Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 23.62,
+    "circuit_breaker_lower": 20.32,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BERG",
+    "name": "BERG Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 118.77,
+    "circuit_breaker_lower": 102.19,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ANTM",
+    "name": "ANTM Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 64.5,
+    "circuit_breaker_lower": 55.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ABOT",
+    "name": "ABOT Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1080.38,
+    "circuit_breaker_lower": 929.62,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GHGL",
+    "name": "GHGL Pakistan",
+    "sector": "GLASS & CERAMICS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 43.87,
+    "circuit_breaker_lower": 37.75,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ACIETF",
+    "name": "ACIETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.6,
+    "circuit_breaker_lower": 16.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SHDT",
+    "name": "SHDT Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 45.69,
+    "circuit_breaker_lower": 39.31,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KOIL",
+    "name": "KOIL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 36.55,
+    "circuit_breaker_lower": 31.45,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BUXL",
+    "name": "BUXL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 349.51,
+    "circuit_breaker_lower": 300.75,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GADT",
+    "name": "GADT Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 329.43,
+    "circuit_breaker_lower": 283.47,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AGIL",
+    "name": "AGIL Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 150.61,
+    "circuit_breaker_lower": 129.59,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IGIHL",
+    "name": "IGIHL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 260.15,
+    "circuit_breaker_lower": 223.85,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KOHE",
+    "name": "KOHE Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 16.23,
+    "circuit_breaker_lower": 13.97,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BAHL",
+    "name": "BAHL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "BKTI",
+      "JSGBKTI",
+      "KSE100",
+      "KSE100PR",
+      "NBPPGI",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 179.53,
+    "circuit_breaker_lower": 154.47,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "WAFI",
+    "name": "WAFI Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 181.3,
+    "circuit_breaker_lower": 156.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GWLC",
+    "name": "GWLC Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 49.4,
+    "circuit_breaker_lower": 42.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MERIT",
+    "name": "MERIT Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.3,
+    "circuit_breaker_lower": 8.3,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UBDL",
+    "name": "UBDL Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 29.22,
+    "circuit_breaker_lower": 25.14,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GATI",
+    "name": "GATI Pakistan",
+    "sector": "SYNTHETIC & RAYON",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 89.22,
+    "circuit_breaker_lower": 76.78,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UDPL",
+    "name": "UDPL Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 98.9,
+    "circuit_breaker_lower": 85.1,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IDRT",
+    "name": "IDRT Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 40.85,
+    "circuit_breaker_lower": 35.15,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IBLHL",
+    "name": "IBLHL Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 44.26,
+    "circuit_breaker_lower": 38.08,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AGL",
+    "name": "AGL Pakistan",
+    "sector": "FERTILIZER",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 48.38,
+    "circuit_breaker_lower": 41.62,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BFBIO",
+    "name": "BFBIO Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 146.26,
+    "circuit_breaker_lower": 125.86,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LPGL",
+    "name": "LPGL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 101.04,
+    "circuit_breaker_lower": 86.94,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FIBLM",
+    "name": "FIBLM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 16.49,
+    "circuit_breaker_lower": 14.19,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ABL",
+    "name": "ABL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 183.82,
+    "circuit_breaker_lower": 158.18,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PQGTL",
+    "name": "PQGTL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.0,
+    "circuit_breaker_lower": 12.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ASLPS",
+    "name": "ASLPS Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.38,
+    "circuit_breaker_lower": 15.82,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BCL",
+    "name": "BCL Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 80.35,
+    "circuit_breaker_lower": 69.13,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KOHTM",
+    "name": "KOHTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 97.14,
+    "circuit_breaker_lower": 83.58,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HABSM",
+    "name": "HABSM Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 89.73,
+    "circuit_breaker_lower": 77.21,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SANSM",
+    "name": "SANSM Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 190.45,
+    "circuit_breaker_lower": 163.87,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SHCM",
+    "name": "SHCM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 74.17,
+    "circuit_breaker_lower": 63.83,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DBCI",
+    "name": "DBCI Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 11.02,
+    "circuit_breaker_lower": 9.02,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "APL",
+    "name": "APL Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 614.9,
+    "circuit_breaker_lower": 529.1,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MFFL",
+    "name": "MFFL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 162.29,
+    "circuit_breaker_lower": 139.65,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "LEUL",
+    "name": "LEUL Pakistan",
+    "sector": "LEATHER & TANNERIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 98.03,
+    "circuit_breaker_lower": 84.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SZTM",
+    "name": "SZTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 165.54,
+    "circuit_breaker_lower": 142.44,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JLICL",
+    "name": "JLICL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 115.88,
+    "circuit_breaker_lower": 99.72,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CHCC",
+    "name": "CHCC Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 327.86,
+    "circuit_breaker_lower": 282.12,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "QUET",
+    "name": "QUET Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.7,
+    "circuit_breaker_lower": 13.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KSTM",
+    "name": "KSTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.93,
+    "circuit_breaker_lower": 12.85,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "786",
+    "name": "786 Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 21.61,
+    "circuit_breaker_lower": 18.59,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HINOON",
+    "name": "HINOON Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1032.41,
+    "circuit_breaker_lower": 888.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TOWL",
+    "name": "TOWL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 137.06,
+    "circuit_breaker_lower": 117.94,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NNAR",
+    "name": "NNAR Pakistan",
+    "sector": "REAL ESTATE INVESTMENT TRUST",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 22.57,
+    "circuit_breaker_lower": 19.43,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HMB",
+    "name": "HMB Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "PSXDIV20"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 110.19,
+    "circuit_breaker_lower": 94.81,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SPL",
+    "name": "SPL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 52.36,
+    "circuit_breaker_lower": 45.06,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "POML",
+    "name": "POML Pakistan",
+    "sector": "VANASPATI & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 174.15,
+    "circuit_breaker_lower": 149.85,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FEROZ",
+    "name": "FEROZ Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 397.52,
+    "circuit_breaker_lower": 342.06,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HTL",
+    "name": "HTL Pakistan",
+    "sector": "OIL & GAS MARKETING COMPANIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 41.61,
+    "circuit_breaker_lower": 35.81,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HALEON",
+    "name": "HALEON Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 749.25,
+    "circuit_breaker_lower": 644.71,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "INKL",
+    "name": "INKL Pakistan",
+    "sector": "APPAREL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 236.5,
+    "circuit_breaker_lower": 203.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AGIC",
+    "name": "AGIC Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 44.6,
+    "circuit_breaker_lower": 38.38,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HGFA",
+    "name": "HGFA Pakistan",
+    "sector": "CLOSE - END MUTUAL FUND",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 14.84,
+    "circuit_breaker_lower": 12.77,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SUHJ",
+    "name": "SUHJ Pakistan",
+    "sector": "JUTE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 168.93,
+    "circuit_breaker_lower": 145.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GVGL",
+    "name": "GVGL Pakistan",
+    "sector": "GLASS & CERAMICS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 52.67,
+    "circuit_breaker_lower": 45.33,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TSMF",
+    "name": "TSMF Pakistan",
+    "sector": "CLOSE - END MUTUAL FUND",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.7,
+    "circuit_breaker_lower": 13.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AABS",
+    "name": "AABS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 774.0,
+    "circuit_breaker_lower": 666.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SNAI",
+    "name": "SNAI Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 37.2,
+    "circuit_breaker_lower": 32.01,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "RUBY",
+    "name": "RUBY Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 20.43,
+    "circuit_breaker_lower": 17.57,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FTMM",
+    "name": "FTMM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 20.43,
+    "circuit_breaker_lower": 17.57,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BAFS",
+    "name": "BAFS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 666.5,
+    "circuit_breaker_lower": 573.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JUBS",
+    "name": "JUBS Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 55.95,
+    "circuit_breaker_lower": 48.15,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "OLPM",
+    "name": "OLPM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 26.88,
+    "circuit_breaker_lower": 23.12,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "REDCO",
+    "name": "REDCO Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 29.52,
+    "circuit_breaker_lower": 25.4,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MIRKS",
+    "name": "MIRKS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 35.15,
+    "circuit_breaker_lower": 30.25,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SEL",
+    "name": "SEL Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 25.26,
+    "circuit_breaker_lower": 21.74,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SCBPL",
+    "name": "SCBPL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 65.35,
+    "circuit_breaker_lower": 56.23,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SSOM",
+    "name": "SSOM Pakistan",
+    "sector": "VANASPATI & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 454.84,
+    "circuit_breaker_lower": 391.38,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SNBL",
+    "name": "SNBL Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 20.43,
+    "circuit_breaker_lower": 17.57,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ACPL",
+    "name": "ACPL Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 288.1,
+    "circuit_breaker_lower": 247.9,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PRWM",
+    "name": "PRWM Pakistan",
+    "sector": "TEXTILE WEAVING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 72.03,
+    "circuit_breaker_lower": 61.98,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GSPM",
+    "name": "GSPM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 9.8,
+    "circuit_breaker_lower": 7.8,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DOL",
+    "name": "DOL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 33.01,
+    "circuit_breaker_lower": 28.41,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "EFUL",
+    "name": "EFUL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 123.1,
+    "circuit_breaker_lower": 105.92,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PAKT",
+    "name": "PAKT Pakistan",
+    "sector": "TOBACCO",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1608.19,
+    "circuit_breaker_lower": 1383.79,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PRET",
+    "name": "PRET Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 704.02,
+    "circuit_breaker_lower": 605.78,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CENI",
+    "name": "CENI Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 36.93,
+    "circuit_breaker_lower": 31.77,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GUSM",
+    "name": "GUSM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.35,
+    "circuit_breaker_lower": 8.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SLYT",
+    "name": "SLYT Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 16.0,
+    "circuit_breaker_lower": 13.76,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ARPL",
+    "name": "ARPL Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 408.38,
+    "circuit_breaker_lower": 351.4,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DLL",
+    "name": "DLL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 47.78,
+    "circuit_breaker_lower": 41.12,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SERT",
+    "name": "SERT Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 37.57,
+    "circuit_breaker_lower": 32.33,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ADAMS",
+    "name": "ADAMS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 77.12,
+    "circuit_breaker_lower": 66.36,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ALAC",
+    "name": "ALAC Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 22.49,
+    "circuit_breaker_lower": 19.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ZTL",
+    "name": "ZTL Pakistan",
+    "sector": "TEXTILE WEAVING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.7,
+    "circuit_breaker_lower": 16.09,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SUTM",
+    "name": "SUTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 146.19,
+    "circuit_breaker_lower": 125.79,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "CRTM",
+    "name": "CRTM Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 65.68,
+    "circuit_breaker_lower": 56.52,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NITGETF",
+    "name": "NITGETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 37.14,
+    "circuit_breaker_lower": 31.96,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JSGBETF",
+    "name": "JSGBETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 44.2,
+    "circuit_breaker_lower": 38.04,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NBPGETF",
+    "name": "NBPGETF Pakistan",
+    "sector": "EXCHANGE TRADED FUNDS",
+    "listed_indices": [],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 29.28,
+    "circuit_breaker_lower": 25.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DWTM",
+    "name": "DWTM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 11.5,
+    "circuit_breaker_lower": 9.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BOK",
+    "name": "BOK Pakistan",
+    "sector": "COMMERCIAL BANKS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 28.33,
+    "circuit_breaker_lower": 24.37,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PAKOXY",
+    "name": "PAKOXY Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 377.32,
+    "circuit_breaker_lower": 324.68,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PNSC",
+    "name": "PNSC Pakistan",
+    "sector": "TRANSPORT",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 602.0,
+    "circuit_breaker_lower": 518.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HWQS",
+    "name": "HWQS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 19.36,
+    "circuit_breaker_lower": 16.66,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ATIL",
+    "name": "ATIL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 81.7,
+    "circuit_breaker_lower": 70.3,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MCBIM",
+    "name": "MCBIM Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 137.6,
+    "circuit_breaker_lower": 118.4,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SURC",
+    "name": "SURC Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 141.02,
+    "circuit_breaker_lower": 121.34,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FEM",
+    "name": "FEM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 12.43,
+    "circuit_breaker_lower": 10.43,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FTSM",
+    "name": "FTSM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 31.86,
+    "circuit_breaker_lower": 27.42,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HINO",
+    "name": "HINO Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 333.25,
+    "circuit_breaker_lower": 286.75,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FSWL",
+    "name": "FSWL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 202.09,
+    "circuit_breaker_lower": 173.89,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FRCL",
+    "name": "FRCL Pakistan",
+    "sector": "GLASS & CERAMICS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 107.51,
+    "circuit_breaker_lower": 92.51,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ALIFE",
+    "name": "ALIFE Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 33.21,
+    "circuit_breaker_lower": 28.57,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "INDU",
+    "name": "INDU Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1983.34,
+    "circuit_breaker_lower": 1706.6,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ATBA",
+    "name": "ATBA Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 177.38,
+    "circuit_breaker_lower": 152.62,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KPUS",
+    "name": "KPUS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1105.1,
+    "circuit_breaker_lower": 950.9,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BHAT",
+    "name": "BHAT Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1288.92,
+    "circuit_breaker_lower": 1109.08,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BATA",
+    "name": "BATA Pakistan",
+    "sector": "LEATHER & TANNERIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 846.02,
+    "circuit_breaker_lower": 727.98,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ASHT",
+    "name": "ASHT Pakistan",
+    "sector": "TEXTILE WEAVING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 39.58,
+    "circuit_breaker_lower": 34.06,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SITC",
+    "name": "SITC Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 652.52,
+    "circuit_breaker_lower": 561.48,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JAZZSURE",
+    "name": "JAZZSURE Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 105.89,
+    "circuit_breaker_lower": 91.11,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "EXIDE",
+    "name": "EXIDE Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 454.71,
+    "circuit_breaker_lower": 391.27,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "POWERPS",
+    "name": "POWERPS Pakistan",
+    "sector": "CEMENT",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 29.57,
+    "circuit_breaker_lower": 25.45,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SRVI",
+    "name": "SRVI Pakistan",
+    "sector": "LEATHER & TANNERIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR",
+      "MII30"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 190.06,
+    "circuit_breaker_lower": 163.54,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PKGS",
+    "name": "PKGS Pakistan",
+    "sector": "PAPER, BOARD & PACKAGING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 677.25,
+    "circuit_breaker_lower": 582.75,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DYNO",
+    "name": "DYNO Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 267.55,
+    "circuit_breaker_lower": 230.21,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PCAL",
+    "name": "PCAL Pakistan",
+    "sector": "CABLE & ELECTRICAL GOODS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 132.26,
+    "circuit_breaker_lower": 113.8,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KHYT",
+    "name": "KHYT Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1971.55,
+    "circuit_breaker_lower": 1696.45,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "THALL",
+    "name": "THALL Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 586.94,
+    "circuit_breaker_lower": 505.04,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PECO",
+    "name": "PECO Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1213.67,
+    "circuit_breaker_lower": 1044.33,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KHTC",
+    "name": "KHTC Pakistan",
+    "sector": "TOBACCO",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 298.84,
+    "circuit_breaker_lower": 257.14,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HUSI",
+    "name": "HUSI Pakistan",
+    "sector": "PROPERTY",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 46.76,
+    "circuit_breaker_lower": 40.24,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "RUPL",
+    "name": "RUPL Pakistan",
+    "sector": "SYNTHETIC & RAYON",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 28.86,
+    "circuit_breaker_lower": 24.84,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PKGP",
+    "name": "PKGP Pakistan",
+    "sector": "POWER GENERATION & DISTRIBUTION",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 32.57,
+    "circuit_breaker_lower": 28.03,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DMC",
+    "name": "DMC Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 175.22,
+    "circuit_breaker_lower": 150.78,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "STYLERS",
+    "name": "STYLERS Pakistan",
+    "sector": "APPAREL",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 51.63,
+    "circuit_breaker_lower": 44.43,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "TICL",
+    "name": "TICL Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 978.23,
+    "circuit_breaker_lower": 841.73,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PASM",
+    "name": "PASM Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 10.92,
+    "circuit_breaker_lower": 8.92,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HAFL",
+    "name": "HAFL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 467.62,
+    "circuit_breaker_lower": 402.38,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BWHL",
+    "name": "BWHL Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 233.28,
+    "circuit_breaker_lower": 200.72,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SHEZ",
+    "name": "SHEZ Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 289.18,
+    "circuit_breaker_lower": 248.82,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BELA",
+    "name": "BELA Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 65.58,
+    "circuit_breaker_lower": 56.42,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "REWM",
+    "name": "REWM Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 180.17,
+    "circuit_breaker_lower": 155.03,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ASIC",
+    "name": "ASIC Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 34.56,
+    "circuit_breaker_lower": 29.74,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JDWS",
+    "name": "JDWS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 967.5,
+    "circuit_breaker_lower": 832.5,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "MSCL",
+    "name": "MSCL Pakistan",
+    "sector": "ENGINEERING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 24.35,
+    "circuit_breaker_lower": 20.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SFL",
+    "name": "SFL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1074.99,
+    "circuit_breaker_lower": 924.99,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JSGCL",
+    "name": "JSGCL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 155.77,
+    "circuit_breaker_lower": 134.03,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PSYL",
+    "name": "PSYL Pakistan",
+    "sector": "SYNTHETIC & RAYON",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 309.6,
+    "circuit_breaker_lower": 266.4,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ATLH",
+    "name": "ATLH Pakistan",
+    "sector": "AUTOMOBILE ASSEMBLER",
+    "listed_indices": [
+      "ALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1740.96,
+    "circuit_breaker_lower": 1498.04,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "EPCLPS",
+    "name": "EPCLPS Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15.05,
+    "circuit_breaker_lower": 12.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PMRS",
+    "name": "PMRS Pakistan",
+    "sector": "SUGAR & ALLIED INDUSTRIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 437.52,
+    "circuit_breaker_lower": 376.48,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FZCM",
+    "name": "FZCM Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 339.69,
+    "circuit_breaker_lower": 292.29,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "OTSU",
+    "name": "OTSU Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 465.46,
+    "circuit_breaker_lower": 400.52,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NESTLE",
+    "name": "NESTLE Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 7525.0,
+    "circuit_breaker_lower": 6475.0,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "RICL",
+    "name": "RICL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 13.18,
+    "circuit_breaker_lower": 11.18,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BNWM",
+    "name": "BNWM Pakistan",
+    "sector": "WOOLLEN",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 65.05,
+    "circuit_breaker_lower": 55.97,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FHAM",
+    "name": "FHAM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 30.69,
+    "circuit_breaker_lower": 26.41,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SHFA",
+    "name": "SHFA Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 479.45,
+    "circuit_breaker_lower": 412.55,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ELCM",
+    "name": "ELCM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 235.44,
+    "circuit_breaker_lower": 202.58,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NSRM",
+    "name": "NSRM Pakistan",
+    "sector": "SYNTHETIC & RAYON",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 212.93,
+    "circuit_breaker_lower": 183.21,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "IGIL",
+    "name": "IGIL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 20.0,
+    "circuit_breaker_lower": 17.21,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ANLNV",
+    "name": "ANLNV Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 8.51,
+    "circuit_breaker_lower": 6.51,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "GCWLPRS",
+    "name": "GCWLPRS Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 107.72,
+    "circuit_breaker_lower": 92.69,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "UPFL",
+    "name": "UPFL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR",
+      "KSE100",
+      "KSE100PR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 30314.98,
+    "circuit_breaker_lower": 26084.98,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "AATM",
+    "name": "AATM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 55.36,
+    "circuit_breaker_lower": 47.64,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ZIL",
+    "name": "ZIL Pakistan",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 308.52,
+    "circuit_breaker_lower": 265.48,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "NATM",
+    "name": "NATM Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 94.49,
+    "circuit_breaker_lower": 81.31,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "STJT",
+    "name": "STJT Pakistan",
+    "sector": "TEXTILE WEAVING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 131.15,
+    "circuit_breaker_lower": 112.85,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "HPL",
+    "name": "HPL Pakistan",
+    "sector": "PHARMACEUTICALS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 4332.14,
+    "circuit_breaker_lower": 3727.66,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SSML",
+    "name": "SSML Pakistan",
+    "sector": "TEXTILE SPINNING",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 20.32,
+    "circuit_breaker_lower": 17.48,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DWAE",
+    "name": "DWAE Pakistan",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 24.36,
+    "circuit_breaker_lower": 20.96,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FIL",
+    "name": "FIL Pakistan",
+    "sector": "LEATHER & TANNERIES",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 326.8,
+    "circuit_breaker_lower": 281.2,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "DIIL",
+    "name": "DIIL Pakistan",
+    "sector": "MISCELLANEOUS",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 81.69,
+    "circuit_breaker_lower": 70.29,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "KCL",
+    "name": "KCL Pakistan",
+    "sector": "GLASS & CERAMICS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 187.05,
+    "circuit_breaker_lower": 160.95,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SIEM",
+    "name": "SIEM Pakistan",
+    "sector": "CABLE & ELECTRICAL GOODS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1656.63,
+    "circuit_breaker_lower": 1425.47,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PIAHCLB",
+    "name": "PIAHCLB Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 15417.65,
+    "circuit_breaker_lower": 13266.35,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "SAPT",
+    "name": "SAPT Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 1654.93,
+    "circuit_breaker_lower": 1424.01,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "ORM",
+    "name": "ORM Pakistan",
+    "sector": "MODARABAS",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 12.05,
+    "circuit_breaker_lower": 10.05,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "JSIL",
+    "name": "JSIL Pakistan",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS.",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 33.33,
+    "circuit_breaker_lower": 28.68,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "EWIC",
+    "name": "EWIC Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 60.36,
+    "circuit_breaker_lower": 51.94,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "FASM",
+    "name": "FASM Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 327.88,
+    "circuit_breaker_lower": 282.12,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "BTL",
+    "name": "BTL Pakistan",
+    "sector": "TEXTILE COMPOSITE",
+    "listed_indices": [
+      "ALLSHR",
+      "KMIALLSHR"
+    ],
+    "is_shariah_compliant": true,
+    "lot_size": 1,
+    "circuit_breaker_upper": 863.42,
+    "circuit_breaker_lower": 742.94,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PINL",
+    "name": "PINL Pakistan",
+    "sector": "INSURANCE",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 11.24,
+    "circuit_breaker_lower": 9.24,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  },
+  {
+    "symbol": "PPVC",
+    "name": "PPVC Pakistan",
+    "sector": "CHEMICAL",
+    "listed_indices": [
+      "ALLSHR"
+    ],
+    "is_shariah_compliant": false,
+    "lot_size": 1,
+    "circuit_breaker_upper": 18.81,
+    "circuit_breaker_lower": 16.19,
+    "is_active": true,
+    "last_updated": "2026-11-16 10:09:57"
+  }
+]

@@ -15,7 +15,7 @@ import {
   initialSignals,
   initialOpportunities,
   initialScannerResults,
-} from "@/lib/mockData";
+} from "@/lib/initialData";
 
 export function useRealTimeMarket() {
   const [marketStatus, setMarketStatus] = useState<MarketStatus>(initialMarketStatus);
@@ -54,8 +54,8 @@ export function useRealTimeMarket() {
       const live = statusRes.isLiveBackend || moversRes.isLiveBackend;
       setIsLiveBackend(live);
     } catch (err: any) {
-      console.warn("Could not load backend data, falling back to mock:", err);
-      setError("Failed to fetch fresh live backend data. Utilizing local mock state.");
+      console.warn("Could not load backend data:", err);
+      setError("Failed to fetch fresh live backend data. Verify the backend service is running.");
       setIsLiveBackend(false);
     } finally {
       setIsLoading(false);

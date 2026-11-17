@@ -16,9 +16,9 @@ class Settings(BaseModel):
         "http://localhost:5173",
         "*"
     ]
-    DATA_MODE: str = os.getenv("DATA_MODE", "MOCK") # MOCK or LIVE
+    DATA_MODE: str = os.getenv("DATA_MODE", "LIVE")
     SUPABASE_URL: str = os.getenv("SUPABASE_URL", "")
     SUPABASE_KEY: str = os.getenv("SUPABASE_KEY", "")
-    MOCK_DISCLAIMER: str = "SIMULATED / MOCK RESEARCH DATA FOR UI DEVELOPMENT - NOT LIVE PSX DATA"
+    DISCLAIMER: str = "OFFICIAL PSX DATA PORTAL LIVE FEED (~15m delayed via DPS) - NOT FINANCIAL ADVICE"
 
 settings = Settings()

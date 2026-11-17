@@ -3,7 +3,7 @@ import json
 import random
 import datetime
 from fastapi import APIRouter, WebSocket, WebSocketDisconnect
-from backend.app.services.mock_data import mock_service
+from backend.app.market_engine.engine import market_data_engine
 
 router = APIRouter(tags=["WebSocket"])
 
@@ -34,48 +34,52 @@ manager = ConnectionManager()
 @router.websocket("/ws/live-signals")
 async def websocket_endpoint(websocket: WebSocket):
     """
-    WebSocket endpoint for streaming real-time simulated PSX market ticks and signal alerts.
+    WebSocket endpoint for streaming real-time live PSX market data and ticks.
     """
     await manager.connect(websocket)
     try:
         # Send initial connected greeting
         await websocket.send_text(json.dumps({
             "type": "CONNECTION_ESTABLISHED",
-            "message": "Connected to PSX Signal Intelligence WebSocket stream",
-            "is_mock": True,
-            "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            "message": "Connected to PSX Signal Intelligence Live Data WebSocket stream",
+            "is_mock": False,
+            "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S PKT")
         }))
 
         # Send immediate initial state
-        initial_status = mock_service.get_market_status()
-        await websocket.send_text(json.dumps({
-            "type": "MARKET_TICK",
-            "data": initial_status.model_dump(),
-            "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        }))
+        try:
+            overview = await market_data_engine.get_market_overview()
+            await websocket.send_text(json.dumps({
+                "type": "MARKET_TICK",
+                "index_name": overview.index_name,
+                "current_value": overview.index_value,
+                "change": overview.index_change,
+                "change_percent": overview.index_change_percent,
+                "volume_formatted": overview.total_volume_formatted,
+                "timestamp": overview.timestamp,
+                "is_mock": False
+            }))
+        except Exception:
+            pass
 
         # Streaming loop
         while True:
-            # Sleep 4 seconds between ticks
-            await asyncio.sleep(4)
-            # Simulate random index micro-tick
-            delta = round(random.uniform(-15.5, 22.0), 2)
-            mock_service.kse_index += delta
-            mock_service.kse_change += delta
-            mock_service.kse_change_pct = round((mock_service.kse_change / (mock_service.kse_index - mock_service.kse_change)) * 100, 2)
-            
-            status = mock_service.get_market_status()
-            tick_payload = {
-                "type": "MARKET_TICK",
-                "index_name": "KSE-100",
-                "current_value": status.current_value,
-                "change": status.change,
-                "change_percent": status.change_percent,
-                "volume_formatted": status.volume_formatted,
-                "timestamp": status.last_updated,
-                "is_mock": True
-            }
-            await websocket.send_text(json.dumps(tick_payload))
+            await asyncio.sleep(5)
+            try:
+                overview = await market_data_engine.get_market_overview()
+                tick_payload = {
+                    "type": "MARKET_TICK",
+                    "index_name": overview.index_name,
+                    "current_value": overview.index_value,
+                    "change": overview.index_change,
+                    "change_percent": overview.index_change_percent,
+                    "volume_formatted": overview.total_volume_formatted,
+                    "timestamp": overview.timestamp,
+                    "is_mock": False
+                }
+                await websocket.send_text(json.dumps(tick_payload))
+            except Exception:
+                pass
 
     except WebSocketDisconnect:
         manager.disconnect(websocket)

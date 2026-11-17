@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { AuthProvider } from "@/context/AuthContext";
 
 export const metadata: Metadata = {
   title: "PSX Signal Intelligence | Pakistan Stock Market Terminal",
@@ -14,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark h-full antialiased">
       <body className="min-h-full bg-[#090D16] text-slate-100 selection:bg-emerald-500/30 selection:text-emerald-300">
-        {children}
+        <AuthProvider>{children}</AuthProvider>
       </body>
     </html>
   );

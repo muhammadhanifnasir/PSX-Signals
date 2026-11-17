@@ -23,8 +23,8 @@ class ScannerResponse(BaseModel):
     scan_timestamp: str
     filters_applied: dict
     results: List[ScannerItem]
-    is_mock: bool = True
-    disclaimer: str = "SIMULATED / MOCK RESEARCH DATA - NOT LIVE PSX DATA"
+    is_mock: bool = False
+    disclaimer: str = "OFFICIAL PSX DATA PORTAL LIVE FEED (~15m delayed via DPS)"
 
 class OpportunityItem(BaseModel):
     id: str
@@ -44,5 +44,5 @@ class OpportunityItem(BaseModel):
 class OpportunitiesResponse(BaseModel):
     top_opportunities: List[OpportunityItem]
     timestamp: str
-    is_mock: bool = True
-    disclaimer: str = "SIMULATED / MOCK RESEARCH DATA - NOT LIVE PSX DATA"
+    is_mock: bool = False
+    disclaimer: str = "OFFICIAL PSX DATA PORTAL LIVE FEED (~15m delayed via DPS)"

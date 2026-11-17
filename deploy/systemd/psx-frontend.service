@@ -1,0 +1,20 @@
+[Unit]
+Description=PSX Signal Intelligence Next.js Frontend
+After=network.target psx-backend.service
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/psx-signals/frontend
+Environment=NODE_ENV=production
+Environment=PORT=3000
+EnvironmentFile=/var/www/psx-signals/.env
+ExecStart=/usr/bin/npm start
+Restart=always
+RestartSec=5
+StandardOutput=append:/var/log/psx-signals/frontend.log
+StandardError=append:/var/log/psx-signals/frontend-error.log
+
+[Install]
+WantedBy=multi-user.target

@@ -35,12 +35,13 @@ export default function DataSourcesPage() {
                 <Radio className="w-4 h-4 text-emerald-400" />
                 PSX Market Feed Adapter
               </span>
-              <span className="px-2 py-0.5 text-[10px] font-mono rounded bg-amber-500/20 text-amber-300 border border-amber-500/30 font-semibold">
-                Simulated / Mock Mode
+              <span className="px-2 py-0.5 text-[10px] font-mono rounded bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 font-semibold flex items-center gap-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping inline-block" />
+                Live PSX Feed Mode
               </span>
             </div>
             <p className="text-xs text-slate-400">
-              High-fidelity realistic synthetic engine generating intraday price action, volume surges, and KSE-100 index movements for research and UI validation.
+              Direct connection to the official PSX Data Portal (DPS) market watch feed collecting 490+ stocks, real KSE-100 index action, sector classifications, and trading volumes.
             </p>
             <div className="space-y-1.5 text-xs font-mono text-slate-300">
               <div className="flex justify-between">

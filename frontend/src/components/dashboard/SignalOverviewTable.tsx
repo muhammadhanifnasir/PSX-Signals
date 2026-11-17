@@ -16,6 +16,7 @@ import {
   Sparkles,
 } from "lucide-react";
 import { formatNumber, formatPercent } from "@/lib/utils";
+import { SignalDetailModal } from "@/components/signals/SignalDetailModal";
 
 interface SignalOverviewTableProps {
   signals: Signal[];
@@ -61,6 +62,24 @@ export function SignalOverviewTable({ signals, onSelectSymbol }: SignalOverviewT
           <span className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-mono font-semibold rounded-lg bg-rose-950/60 text-rose-400 border border-rose-800/60">
             <ArrowDownRight className="w-3.5 h-3.5" />
             SELL
+          </span>
+        );
+      case "WATCH":
+        return (
+          <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono font-semibold rounded-lg bg-cyan-500/20 text-cyan-300 border border-cyan-500/30">
+            WATCH
+          </span>
+        );
+      case "WAIT":
+        return (
+          <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono font-semibold rounded-lg bg-amber-500/20 text-amber-300 border border-amber-500/30">
+            WAIT
+          </span>
+        );
+      case "EXIT":
+        return (
+          <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono font-semibold rounded-lg bg-rose-500/20 text-rose-300 border border-rose-500/30">
+            EXIT
           </span>
         );
       default:
@@ -243,83 +262,11 @@ export function SignalOverviewTable({ signals, onSelectSymbol }: SignalOverviewT
 
       {/* Signal Details Modal / Dialog */}
       {selectedSignalForModal && (
-        <div
-          className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm"
-          onClick={() => setSelectedSignalForModal(null)}
-        >
-          <div
-            className="w-full max-w-lg trading-card rounded-2xl border border-slate-700 bg-slate-900 p-6 shadow-2xl relative"
-            onClick={(e) => e.stopPropagation()}
-          >
-            <div className="flex items-center justify-between pb-4 border-b border-slate-800 mb-4">
-              <div className="flex items-center gap-2.5">
-                <div className="p-2 rounded-xl bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">
-                  <Sparkles className="w-5 h-5" />
-                </div>
-                <div>
-                  <h3 className="text-base font-bold text-white flex items-center gap-2">
-                    <span>{selectedSignalForModal.symbol}</span>
-                    <span className="text-xs text-slate-400 font-normal">
-                      {selectedSignalForModal.company_name}
-                    </span>
-                  </h3>
-                  <p className="text-xs text-slate-400">{selectedSignalForModal.sector}</p>
-                </div>
-              </div>
-              <div>{getActionBadge(selectedSignalForModal.action)}</div>
-            </div>
-
-            {/* Signal Details Grid */}
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs font-mono mb-4">
-              <div className="p-2.5 rounded-lg bg-slate-800/50 border border-slate-700/50">
-                <span className="text-slate-400 text-[10px] block">Entry Price</span>
-                <span className="text-slate-200 font-bold">Rs. {selectedSignalForModal.entry_price.toFixed(2)}</span>
-              </div>
-              <div className="p-2.5 rounded-lg bg-slate-800/50 border border-slate-700/50">
-                <span className="text-slate-400 text-[10px] block">Target 1</span>
-                <span className="text-emerald-400 font-bold">Rs. {selectedSignalForModal.target_1.toFixed(2)}</span>
-              </div>
-              <div className="p-2.5 rounded-lg bg-slate-800/50 border border-slate-700/50">
-                <span className="text-slate-400 text-[10px] block">Target 2</span>
-                <span className="text-emerald-400 font-bold">Rs. {selectedSignalForModal.target_2.toFixed(2)}</span>
-              </div>
-              <div className="p-2.5 rounded-lg bg-slate-800/50 border border-slate-700/50">
-                <span className="text-slate-400 text-[10px] block">Stop Loss</span>
-                <span className="text-rose-400 font-bold">Rs. {selectedSignalForModal.stop_loss.toFixed(2)}</span>
-              </div>
-            </div>
-
-            {/* Catalyst and Research Notes */}
-            <div className="space-y-3 mb-5">
-              <div className="p-3 rounded-lg bg-slate-950/60 border border-slate-800">
-                <span className="text-[11px] font-semibold text-emerald-400 block mb-1">
-                  Strategy & Pattern Thesis
-                </span>
-                <p className="text-xs text-slate-300 leading-relaxed">
-                  {selectedSignalForModal.strategy} • Confirmed with RSI(14) at {selectedSignalForModal.rsi_14} and {selectedSignalForModal.volume_surge_ratio}x relative volume spike.
-                </p>
-              </div>
-
-              <div className="p-3 rounded-lg bg-slate-950/60 border border-slate-800">
-                <span className="text-[11px] font-semibold text-cyan-400 block mb-1">
-                  Catalyst & Fundamental Drivers
-                </span>
-                <p className="text-xs text-slate-300 leading-relaxed">
-                  {selectedSignalForModal.catalyst_notes}
-                </p>
-              </div>
-            </div>
-
-            <div className="flex justify-end gap-2">
-              <button
-                onClick={() => setSelectedSignalForModal(null)}
-                className="px-4 py-2 text-xs font-semibold text-slate-300 hover:text-white bg-slate-800 hover:bg-slate-700 rounded-lg transition-colors"
-              >
-                Close
-              </button>
-            </div>
-          </div>
-        </div>
+        <SignalDetailModal
+          signal={selectedSignalForModal}
+          isOpen={!!selectedSignalForModal}
+          onClose={() => setSelectedSignalForModal(null)}
+        />
       )}
     </div>
   );

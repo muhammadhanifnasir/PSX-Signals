@@ -15,7 +15,7 @@ class SupabaseService:
 
     def _initialize(self):
         if not self.url or not self.key or "placeholder" in self.url.lower():
-            logger.info("Supabase credentials not configured. Running with in-memory / mock storage mode.")
+            logger.info("Supabase credentials not configured. Running with local storage mode.")
             self.is_connected = False
             return
         try:

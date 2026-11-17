@@ -1,16 +1,22 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { AppShell } from "@/components/layout/AppShell";
 import { MetricCards } from "@/components/dashboard/MetricCards";
 import { TradingChart } from "@/components/dashboard/TradingChart";
 import { SignalOverviewTable } from "@/components/dashboard/SignalOverviewTable";
 import { TopOpportunitiesPanel } from "@/components/dashboard/TopOpportunitiesPanel";
 import { MarketMoversPanel } from "@/components/dashboard/MarketMoversPanel";
+import { MacroRegimeBanner } from "@/components/dashboard/MacroRegimeBanner";
+import { SectorRotationMatrix } from "@/components/dashboard/SectorRotationMatrix";
+import { SmartMoneyFlowWidget } from "@/components/dashboard/SmartMoneyFlowWidget";
+import { CorporateActionsWidget } from "@/components/dashboard/CorporateActionsWidget";
 import { LoadingState, MetricCardSkeleton } from "@/components/states/LoadingState";
 import { ErrorState } from "@/components/states/ErrorState";
 import { EmptyState } from "@/components/states/EmptyState";
 import { useRealTimeMarket } from "@/hooks/useRealTimeMarket";
+import { api } from "@/lib/api";
+import { MacroRegimeReport, SectorPerformance } from "@/lib/types";
 
 export default function DashboardPage() {
   const {
@@ -26,6 +32,35 @@ export default function DashboardPage() {
   } = useRealTimeMarket();
 
   const [selectedStockForChart, setSelectedStockForChart] = useState<string>("KSE-100");
+  const [macroRegime, setMacroRegime] = useState<MacroRegimeReport | null>(null);
+  const [sectors, setSectors] = useState<SectorPerformance[]>([]);
+  const [isSectorLoading, setIsSectorLoading] = useState<boolean>(true);
+
+  useEffect(() => {
+    let isMounted = true;
+    const fetchMacroAndSectors = async () => {
+      try {
+        const [regimeRes, sectorRes] = await Promise.all([
+          api.getMacroRegime(),
+          api.getSectorRotation(),
+        ]);
+        if (isMounted) {
+          setMacroRegime(regimeRes.data);
+          setSectors(sectorRes.data);
+          setIsSectorLoading(false);
+        }
+      } catch (err) {
+        if (isMounted) setIsSectorLoading(false);
+      }
+    };
+
+    fetchMacroAndSectors();
+    const interval = setInterval(fetchMacroAndSectors, 45000); // 45s refresh
+    return () => {
+      isMounted = false;
+      clearInterval(interval);
+    };
+  }, []);
 
   const handleSelectSymbol = (symbol: string) => {
     setSelectedStockForChart(symbol);
@@ -49,11 +84,16 @@ export default function DashboardPage() {
         <MetricCards status={marketStatus} isLoading={isLoading} />
       </section>
 
+      {/* 1.5. INSTITUTIONAL MACRO REGIME BANNER */}
+      <section aria-label="Macro Market Regime">
+        <MacroRegimeBanner regime={macroRegime} isLoading={isSectorLoading} />
+      </section>
+
       {/* ERROR BANNER IF ANY */}
       {error && !isLiveBackend && (
         <ErrorState
           title="Backend API Offline"
-          message="Could not reach the FastAPI backend on port 8000. Running in client simulation mode with mock research data."
+          message="Could not reach the FastAPI backend on port 8000. Please ensure the live market backend service is running."
           onRetry={refreshAllData}
         />
       )}
@@ -64,6 +104,21 @@ export default function DashboardPage() {
           initialSymbol={selectedStockForChart}
           onSymbolChange={(sym) => setSelectedStockForChart(sym)}
         />
+      </section>
+
+      {/* 2.5. SECTOR ROTATION MATRIX (RRG QUADRANTS) */}
+      <section aria-label="Sector Rotation Matrix">
+        <SectorRotationMatrix
+          sectors={sectors}
+          isLoading={isSectorLoading}
+          onSelectSymbol={handleSelectSymbol}
+        />
+      </section>
+
+      {/* 2.6. SMART MONEY FLOW & CORPORATE ACTIONS */}
+      <section aria-label="Smart Money Footprint and Corporate Actions" className="grid grid-cols-1 xl:grid-cols-2 gap-5">
+        <SmartMoneyFlowWidget onSelectSymbol={handleSelectSymbol} />
+        <CorporateActionsWidget onSelectSymbol={handleSelectSymbol} />
       </section>
 
       {/* 3. OPPORTUNITIES & MARKET MOVERS (2-column layout on desktop) */}

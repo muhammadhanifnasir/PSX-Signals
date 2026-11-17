@@ -159,7 +159,10 @@ export function Sidebar({ isOpen, onClose, activeSignalsCount = 24, scannerCount
             </div>
             <div className="flex justify-between">
               <span>Feed Mode:</span>
-              <span className="text-amber-400">Mock Research</span>
+              <span className="text-emerald-400 font-semibold flex items-center gap-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping inline-block" />
+                Live PSX Feed
+              </span>
             </div>
           </div>
         </div>

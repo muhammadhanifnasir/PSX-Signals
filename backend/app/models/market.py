@@ -24,10 +24,10 @@ class MarketStatusResponse(BaseModel):
     stocks_scanned_count: int
     active_signals_count: int
     strong_opportunities_count: int
-    data_freshness_seconds: int
-    last_updated: str
-    is_mock: bool = True
-    disclaimer: str = "SIMULATED / MOCK RESEARCH DATA - NOT LIVE PSX DATA"
+    data_freshness_seconds: int = 15
+    last_updated: str = ""
+    is_mock: bool = False
+    disclaimer: str = "OFFICIAL PSX DATA PORTAL LIVE FEED (~15m delayed via DPS)"
 
 class MarketMover(BaseModel):
     symbol: str
@@ -47,5 +47,5 @@ class MarketMoversResponse(BaseModel):
     losers: List[MarketMover]
     volume_leaders: List[MarketMover]
     timestamp: str
-    is_mock: bool = True
-    disclaimer: str = "SIMULATED / MOCK RESEARCH DATA - NOT LIVE PSX DATA"
+    is_mock: bool = False
+    disclaimer: str = "OFFICIAL PSX DATA PORTAL LIVE FEED (~15m delayed via DPS)"

@@ -1,0 +1,18 @@
+[Unit]
+Description=PSX Signal Intelligence FastAPI Backend
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/psx-signals
+EnvironmentFile=/var/www/psx-signals/.env
+ExecStart=/var/www/psx-signals/venv/bin/uvicorn backend.app.main:app --host 127.0.0.1 --port 8000 --workers 2 --proxy-headers
+Restart=always
+RestartSec=5
+StandardOutput=append:/var/log/psx-signals/backend.log
+StandardError=append:/var/log/psx-signals/backend-error.log
+
+[Install]
+WantedBy=multi-user.target
